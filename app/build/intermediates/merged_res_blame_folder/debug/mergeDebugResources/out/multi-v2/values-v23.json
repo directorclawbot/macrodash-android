@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.macrodash.app-mergeDebugResources-62:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-4/2ca6cbcc95f19f6688d8c1efcc59410e/transformed/work-runtime-2.9.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}
